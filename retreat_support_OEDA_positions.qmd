@@ -1,0 +1,86 @@
+---
+title: "Background on OEDA Positions"
+---
+
+## Research Analyst 4
+
+[DAS Classification](https://apps.oregon.gov/DAS/Classification-Compensation/JobProfile/Title/ResearchAnalyst4/JobProfileCode/1118/Category/GeneralGovernment)
+
+OEDA has an interagency research analyst, an interagency data scientist, an interagency equity researcher, an evaluation coordinator (and interagency research analyst), and a lived experiences researcher.
+
+RA4 positions independently
+
+-   Plan, design, and analyze studies
+    -   identify areas of necessary research
+    -   select appropriate methods
+    -   design research studies
+    -   design data collection instruments
+    -   plan and manage complex projects
+    -   design (with ISS positions) information systems
+    -   write computer scripts and programs to analyze data
+    -   study and analyze statistics, tables, graphs, charts and arrive at conclusions about analyses
+-   Present findings
+    -   write summary reports and publish articles
+    -   prepare tables, graphs, and charts
+    -   write analyses and interpretations
+    -   interpret research at the Federal, State, and local level
+    -   serve as a subject matter expert and agency media spokesperson about current situations, trends, and forecasts
+    -   testify in court proceedings about studies and findings
+-   Consult
+    -   Confer with many audiences about current data, trends, projections, and the impact of existing or proposed studies
+-   Manage complex projects
+    -   Plan, assign, and check work of project contributors
+    -   Oversee daily activities of project contributors
+    -   Provide technical training for project contributors
+
+## Economist 3
+
+[DAS Classification](https://apps.oregon.gov/DAS/Classification-Compensation/JobProfile/Title/Economist3/JobProfileCode/1163/Category/GeneralGovernment)
+
+OEDA has an interagency economist position.
+
+ECON3 positions independently
+
+-   Plan, design, and analyze economic studies
+    -   Assess feasibility of research studies
+    -   Coordinate integrated economic research
+    -   Develop forecasting methodologies and approaches
+    -   Analyze quantitative and qualitative economic trends
+    -   Forecast revenue and valuation simulations
+    -   Analyze the impacts of legislative or policy changes
+-   Consult
+    -   Formulate policy recommendations from research
+    -   Design complex databases
+    -   Write analytical reports & position papers
+    -   Present economic data to internal and external groups
+    -   Train and mentor
+-   Manage projects
+    -   Lead and manage research projects
+    -   Coordinate the work of others
+    -   Evaluate studies completed by others
+    -   Manage contracts for outside consultants
+    -   Monitor consultant's performance
+
+## Information Systems Specialist 7
+
+[DAS Classification](https://apps.oregon.gov/DAS/Classification-Compensation/JobProfile/Title/InformationSystemsSpecialist7/JobProfileCode/1487/Category/GeneralGovernment)
+
+OEDA has a research systems specialist position. This position independently
+
+-   Create and maintain research system architecture and strategy
+    -   Architect secure research & analytics platforms (Posit, SageMaker, etc.)
+    -   Develop strategic plans for the evolution of data environments and research systems
+    -   Establish technical standards for data integration and OEDA warehoused data
+    -   Provide expert consultation to leadership and management on data architecture and strategy
+    -   Lead technical projects for system implementation and major upgrades
+-   Develop integrated data systems
+    -   Engineer processes for data harmonization and entity resolution
+    -   Construct integrated data systems from partner-provided datasets
+    -   Design and implement schemas for a research-focused data warehouse
+    -   Develop and manage version control systems (e.g. git) for code, queries, and perhaps data
+    -   Create technical documentation for data systems and integration workflows
+-   Provide technical assistance and consultation
+    -   Administer and maintain advanced data science environments
+    -   Provide advanced technical support and training to research staff
+    -   Resolve complex problems within data systems and integration processes
+    -   Develop security procedures to protect sensitive research data

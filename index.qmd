@@ -1,0 +1,72 @@
+---
+title: "OEDA Retreat"
+---
+
+## Building a viable OEDA
+
+Over three days, we are going to step back from working *in* the business of ORRAI to working *on* the business of OEDA. We are going to step back and look at our team not as a group of researchers, but as a system. A system with needs, working within and alongside other systems.
+
+We will plan for a future working with an OEDA Advisory Committee and restarting our legislative mandate for the integration and analysis of cross-agency client and customer service data.
+
+Using [Beer's Viable System Model](https://en.wikipedia.org/wiki/Viable_system_model), we will map out how we might operate, stay stable, set our direction, and adapt.
+
+I will be asking you to think about OEDA as a formalized and structured system. This may feel constraining for research professionals used to shepherding projects with a lot of variation from project to project, a lot of latitude, creativity, individualization, and autonomy.
+
+Your work *should* be highly autonomous. Indeed, the [Viable System Model](https://en.wikipedia.org/wiki/Viable_system_model) that we are exploring *assumes* that most of the value-adding work in OEDA is done autonomously by teams and individual contributors. Additionally, you each hold high-level positions in Oregon state government, with job descriptions that emphasize individual decision making about research topics and methods, and responsibilities for project management, quality control, communication, and training. This suggests a high degree of independence, accountability, and responsibility across all phases of research design, conduct, and delivery.
+
+My hope is that formal modeling the work of a research team will help us identify:
+
+1.  What we can do on our own in OEDA
+2.  What we need to ask of others to make our work possible: data experts, research peers in other agencies, ORRAI leadership, agency leaders
+3.  How we can better manage our processes, formally and informally
+4.  Roles and responsibilities across OEDA positions
+
+Of these, #2 and #3 are key for this retreat. The second may yield a series of briefings or a list of requests to Peter, the nascent OEDA Advisory Committee, or others so that OEDA has the System 2, 4, and 5 supports that it needs. The third will be work assigned to Jason and others to create the System 2 processes that allow System 1 activities to proceed autonomously and with solid cooperation, communication, and collaboration with other groups.
+
+I want to create a system that supports you, so that OEDA research can be done sustainably and viably. Ultimately, I hope that our time during this retreat will contribute to OEDA producing things of value to people who will champion and provision our work in a virtuous cycle of mutual support.
+
+## Dates & times
+
+There will be some pre-work assigned prior to our retreat start date
+
+-   Day 1: Tuesday, August 5 8:05-4:55
+-   Day 2: Wednesday, August 6 8:05-4:55
+-   Day 3: Thursday, August 7 8:05-4:55
+
+The retreat will incorporate a 15-minute break mid-morning and mid-afternoon and an hour for lunch from noon until 1:00. Shorter 5-minute breaks will be sprinkled through the days where we can find time.
+
+## Attendance
+
+All OEDA team members--Andrew, Lets, Kathryn, Michael, Pascal, Marisol, and Aaron--should attend if they are not using leave on these days. GIS team members may listen in, if they have time and interest, but that team will be doing their own strategic work later in August.
+
+You may need to reschedule other meetings, or let stakeholders or project managers know that projects will not see development during these three days. Please clear your work calendar so that you can attend.
+
+If you are using leave during the retreat, please do not reschedule that leave. We will miss your contributions, but you will have access to the retreat agenda and background info, and the work products from our sessions. If follow-up work emerges for you, Jason will talk over that assignment with you.
+
+## Venue
+
+Microsoft Teams meeting
+
+## Agenda
+
+-   Prework
+    -   Identifying value-adding activities for OEDA individual contributors
+-   Day 1
+    -   Morning
+        -   Grouping activities into OEDA System 1 units
+        -   Identifying unit outputs
+        -   Identifying unit audiences
+        -   Identifying unit inputs
+    -   Afternoon
+-   Day 2
+    -   Morning
+    -   Afternoon
+-   Day 3
+    -   Morning
+    -   Afternoon
+
+## Community agreements
+
+We will be spending a lot of continuous time together over these three days. Cameras are increasingly off during ORRAI meetings, but I am hoping that we can all be on-camera during this retreat. Please talk with me ahead of the retreat if this request makes you uncomfortable.
+
+(Insert IDEA agreements here)

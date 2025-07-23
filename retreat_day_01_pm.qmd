@@ -1,0 +1,30 @@
+---
+title: "OEDA Planning Retreat - Day 1 - Afternoon"
+---
+
+## Intro to Day 1, Afternoon: Our Purpose
+
+Tuesday, August 5 -- 2:05-5:00
+
+### Brief agenda
+
+- 02:05 -- Roundtable: Imagining Our Future
+- 08:30 -- Review & Align: OEDA Activities (yellow sticky notes)
+- 09:05 -- Brainstorm & Align: Creating OEDA Units (bounding boxes)
+- 10:15 -- Break
+- 10:30 -- Brainstorm & Align: Identifying Unit Outputs (green sticky notes)
+- 11:20 -- Brainstorm & Align: Identifying Unit Audiences (blue sticky notes)
+- Noon -- Lunch
+- 01:05 -- Brainstorm & Align: Identifying Unit Inputs (orange sticky notes)
+
+### Day 1, Morning Deliverables
+
+A rough model of OEDA as
+
+- a set of autonomous work units (bounding boxes)
+- each engaging in a set of relatively unique activities (yellow sticky notes)
+- on inputs received from outside the unit ()
+- creating from a set of unique outputs (green sticky notes), and
+- delivering to internal and external audiences
+
+## 8:05 -- Activity #1 -- Roundtable: Imagining Our Future

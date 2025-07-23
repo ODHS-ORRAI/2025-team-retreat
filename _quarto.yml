@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "OEDA Retreat"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: tech.qmd
+        text: Tech guide
+      - href: retreat_day_01_am.qmd
+        text: Day 1 | AM
+      - href: retreat_day_01_pm.qmd
+        text: Day 1 | PM
+  
+format:
+  html:
+    theme:
+      - minty
+      - brand
+    css: styles.css
+    toc: true
+    toc-depth: 5
+editor: visual
+

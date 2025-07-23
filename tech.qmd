@@ -1,0 +1,41 @@
+---
+title: "Retreat Tech Guide"
+---
+
+## Microsoft Teams meeting
+
+This will be our primary vehicle for meeting, and each day will have an all-day invite to the retreat.
+
+## Raising your hand
+
+If no one is speaking and you would like to contribute a thought, you should feel free.
+
+If someone is speaking, though, and you want to say something, please [raise your hand](https://support.microsoft.com/en-us/office/raise-your-hand-in-microsoft-teams-meetings-bb2dd8e1-e6bd-43a6-85cf-30822667b372). We will work through those in order.
+
+## Teams meeting reactions
+
+Consider using reactions--applause, hearts, thumbs up--to express your agreement, thank team members for the contributions, and keep the energy and engagement up in the meeting.
+
+## Teams chat
+
+Use the chat throughout the retreat for either
+
+-   a link applicable to the current topic
+-   quick thoughts that do not need to interrupt the speaker
+
+As a rough guideline, anything that is more than two short sentences should not probably not be a chat. Instead, raise your hand and contribute it to the meeting.
+
+## Teams breakout rooms
+
+We will occasionally use a think-pair-share approach, where each member of OEDA first spends a little time collecting their own thoughts in response to a prompt or task and then teams up with 1 or 2 other team members to share with a smaller group, before reporting out on the small group's discussion to the full team. We will use breakout rooms for these smaller groups.
+
+## Microsoft Whiteboard
+
+This will be our primary collaboration space for virtual sticky notes, mapping, and voting.
+
+[Microsoft Teams guidance on adding shapes and reactions to a whiteboard](https://support.microsoft.com/en-us/office/select-shapes-and-reactions-in-whiteboard-312e53b6-5928-4bc9-a6c8-d89b263a5439)
+
+
+## Polls
+
+Occasionally, we may use [Forms]((https://support.microsoft.com/en-us/office/poll-attendees-during-a-teams-meeting-9923b7d4-ea97-4aa2-b8b8-b45fefe7d454)) or [Teams instant polls](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/create-an-instant-poll-to-collect-feedback-during-a-teams-meeting/4217201) to gather input from everyone.

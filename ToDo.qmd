@@ -1,0 +1,18 @@
+To do:
+
+- Create whiteboard for activity 2
+  - Directions in header
+  - Head each section with an OEDA staff person's name
+  - Add a parking lot
+- Create whiteboard for activity 3
+  - Directions in header
+  - Verify that you can copy items from one whiteboard to another
+  
+  
+Pick distinctive post-it colors for each activity, e.g.:
+- Yellow = activities
+- Black & white = groups
+- Green = outputs
+- Blue = audiences
+- Orange = inputs
+  
