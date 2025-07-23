@@ -10,6 +10,8 @@ website:
         text: Home
       - href: tech.qmd
         text: Tech guide
+      - href: retreat_day_00_prework.qmd
+        text: Pre-work
       - href: retreat_day_01_am.qmd
         text: Day 1 | AM
       - href: retreat_day_01_pm.qmd
