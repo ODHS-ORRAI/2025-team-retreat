@@ -8,7 +8,7 @@ title: "OEDA Planning Retreat - Pre-work"
 
 These quick, initial talks will get everyone coming off camera and talking to the team. They will help us begin to think about OEDA activities that our System 1 units will do, and about the kinds of complexities and challenges that Systems 2, 3, 4, and 5 should be designed to help with.
 
-The goal here is not to create an agenda, but to hear from one another about the kind of work that could be possible. I am hoping we start to think about what we and others might need to do to create the kinds of conditions where that work is possible.
+The goal here is not to create an agenda, but to hear from one another about the kind of work that could be possible. I am hoping that this will get us thinking about what we might need to do, and what we might need to ask others to do, to create the conditions where that work is possible.
 
 ### Prompt
 
@@ -20,11 +20,12 @@ The goal here is not to create an agenda, but to hear from one another about the
 -   Who would find value in this work?
 -   What could the impact of the work be?
 
-This project does not have to be feasible in OEDA's current state.
+This project does not have to be feasible in OEDA's current state. This may never be a project that OEDA pursues; we are just trying to get imaginations going.
 
 ### Pre-work activity
 
-Each OEDA individual contributor will talk for two or three minutes on a hypothetical future OEDA project.
+Write out a brief narrative or some notes so that, during the retreat you can share your hypothetical project with OEDA in about two or three minutes. 
+
 
 ## Prework for Day 1, Activity #2 -- Brainstorming OEDA Actions
 
