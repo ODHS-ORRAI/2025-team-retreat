@@ -45,7 +45,9 @@ If you are using leave during the retreat, please do not reschedule that leave. 
 
 ## Venue
 
-Microsoft Teams meeting
+Microsoft Teams meeting.
+
+We will be spending a lot of continuous time together over these three days. Cameras are increasingly off during ORRAI meetings, but I am hoping that we can all be on-camera during this retreat. Please talk with me ahead of the retreat if this request makes you uncomfortable.
 
 ## Agenda
 
@@ -53,7 +55,7 @@ Microsoft Teams meeting
     -   Briefly describing a hypothetical, future OEDA project
     -   Identifying value-adding activities for OEDA individual contributors
 -   Day 1: Tuesday, August 5
-    -   Morning
+    -   [Morning](retreat_day_01_am.qmd)
         -   Grouping activities into OEDA System 1 units
         -   Identifying unit outputs
         -   Identifying unit audiences
@@ -72,8 +74,4 @@ Microsoft Teams meeting
     -   Afternoon
         - TBA
 
-## Community agreements
 
-We will be spending a lot of continuous time together over these three days. Cameras are increasingly off during ORRAI meetings, but I am hoping that we can all be on-camera during this retreat. Please talk with me ahead of the retreat if this request makes you uncomfortable.
-
-(Insert IDEA agreements here)
