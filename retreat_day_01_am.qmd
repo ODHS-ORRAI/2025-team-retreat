@@ -11,11 +11,13 @@ Tuesday, August 5 -- 8:05-2:30
 - 08:05 -- Roundtable: Imagining Our Future
 - 08:30 -- Review & Align: OEDA Activities (yellow sticky notes)
 - 09:05 -- Brainstorm & Align: Creating OEDA Units (bounding boxes)
-- 10:15 -- Break
+- 10:15 -- 15-minute Break
 - 10:30 -- Brainstorm & Align: Identifying Unit Outputs (green sticky notes)
 - 11:20 -- Brainstorm & Align: Identifying Unit Audiences (blue sticky notes)
 - Noon -- Lunch
 - 01:05 -- Brainstorm & Align: Identifying Unit Inputs (orange sticky notes)
+- 02:00 -- Align: Rolling Out System 1
+- 02:30 -- 15-minute Break
 
 ### Day 1, Morning Deliverables
 
@@ -54,13 +56,11 @@ This project does not have to be feasible in OEDA's current state.
 
 Each OEDA individual contributor will talk for two or three minutes on a hypothetical future OEDA project.
 
-## 8:30 -- Activity #2 -- Reviewing OEDA Activities
+## 8:30 -- Activity #2 -- Reviewing OEDA Actions
 
 ### Purpose
 
-System 1 is not about activities and processes, but about autonomous work units. OEDA does not have defined System 1 units, defaulting instead to individual employees and individual projects.
-
-This activity and the next are designed to see if we can identify new OEDA work units, by identifying groups of activities that individuals routinely do or which their projects routinely require.
+In pre-work activity, you listed the activities that the OEDA team, currently constituted, can or could engage in to bring value to cross-agency stakeholders. We will review and revise this list together.
 
 ### Prompt
 
@@ -68,38 +68,28 @@ _What are OEDA's core value-creating activities? What could those be in OEDA's f
 
 ### Background material
 
-System 1 activities should fit within the DAS classification for OEDA positions. I have provided some [background on OEDA position types](retreat_support_OEDA_positions.qmd) to help with this alignment as you brainstorm.
-
-### Pre-work activity
-
-Populate a whiteboard with post-it notes reflecting the value-creating activities of OEDA, those in which our staff receive some input and act on it, adding value which is ultimately realized in a deliverable to a stakeholder.
-
-Steps:
-
-1.  Open the OEDA actions whiteboard
-2.  Find the area labeled with your name
-3.  Add multiple **yellow** [sticky-notes](https://support.microsoft.com/en-us/office/add-notes-and-note-grids-in-whiteboard-6e29d215-a3e0-431b-8ad4-6076fb444daf), one for each action you brainstorm
-4.  Sticky notes should satisfy the constraints listed below
-
-### Day 1 activity
+### Activity
 
 #### Individual review (10 minutes)
 
 Read others' contributions and add any more you think of (10 minutes)
 
-#### Group review and revision (20 minutes)
+#### Alignment and refinement (20 minutes)
 
-Ask [clarifying questions](https://www.lucidmeetings.com/glossary/clarifying-question) about any of the cards. Revise cards to fit the constraints below.
+Ask [clarifying questions](https://www.lucidmeetings.com/glossary/clarifying-question) about any of the cards. Revise cards to fit the constraints
 
 ### Constraints
 
 -   Each card should be a [**transitive verb**](https://www.grammarly.com/blog/parts-of-speech/transitive-verbs/) and a [**direct object**](https://www.grammarly.com/blog/parts-of-speech/direct-object/)
-    -   The direct object should relate to the inputs to the activity, not its outputs
-    -   You might include a modifier/adjective to add specificity to the object. E.g. rather than include "analyze data," you might find it necessary to distinguish between "analyze survey data", "analyze evaluation data", "analyze interview data", or "analyze economic data."
--   Each card should be **unique**, appearing just once (across the entire whiteboard, your column and those of everyone else)
--   Include activities that contribute to **products**; don't include HR trainings, Workday entry, etc.
+    -   The direct object should relate either to
+        -   The inputs to the activity (e.g. *analyze data*)
+        -   Or to the outputs from the activity (e.g. *create a slide deck*)
+- Each card should be **unique**, appearing just once across the entire whiteboard (your section and those of everyone else)
+-   Include activities that contribute to **products**; don't include HR training, Workday entry, etc.
 -   Activities should **represent the breadth OEDA positions,** based on their general classifications
 -   Include activities only for **positions managed by the OEDA manager**; exclude OEDA management, ORRAI leadership, and the data warehouse and reporting positions that OEDA funds
+
+To keep cards unique, you might consider including a modifier/adjective to add specificity to the object. You could freely add one to your card; you might add a note to someone else's card for them to consider a modifier. E.g. rather than a card for "analyze data", you might distinguish between "analyze survey data", "analyze evaluation data", "analyze interview data", or "analyze economic data."
 
 ### Deliverable
 
@@ -313,7 +303,7 @@ On a whiteboard populated with our candidate System 1 unit
 
 - Look for patterns across the different units
 - Mark with a **star** any input that is required by more than one System 1 unit. These highlight a potential resource conflict or coordination need.
-- Mark with a **red flag** any input that the team agrees current has an unknown process, or is difficult, slow, or unreliable to obtain. This highlights known pain points.
+- Mark with a **red flame** any input that the team agrees current has an unknown process, or is difficult, slow, or unreliable to obtain. This highlights known pain points and bottlenecks.
 
 ### Constraints
 
@@ -322,7 +312,7 @@ On a whiteboard populated with our candidate System 1 unit
 
 ### Deliverable
 
-A more detailed process map of OEDA, highlighting some process dependencies. This will include an early list of starred and flagged inputs which might represent shared resources (and thus potential conflicts) or known bottlenecks. These can be an actionable starting point for designing System 2 later in the retreat.
+A more detailed process map of OEDA, highlighting some process dependencies. This will include an early list of flagged inputs which might represent shared resources (and thus potential conflicts) or known bottlenecks. These can be an actionable starting point for designing System 2 later in the retreat.
 
 ## 2:00 -- Activity #7 -- Rolling Out System 1
 

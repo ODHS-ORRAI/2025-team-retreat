@@ -104,10 +104,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./retreat_day_01_am.html"> 
 <span class="menu-text">Day 1 | AM</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./retreat_day_01_pm.html"> 
-<span class="menu-text">Day 1 | PM</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -184,8 +180,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="attendance" class="level2">
 <h2 class="anchored" data-anchor-id="attendance">Attendance</h2>
-<p>All OEDA team members–Andrew, Lets, Kathryn, Michael, Pascal, Marisol, and Aaron–should attend if they are not using leave on these days. GIS team members may listen in, if they have time and interest, but that team will be doing their own strategic work later in August.</p>
-<p>You may need to reschedule other meetings, or let stakeholders or project managers know that projects will not see development during these three days. Please clear your work calendar so that you can attend.</p>
+<p>All OEDA team members–Andrew, Lets, Kathryn, Michael, Pascal, Marisol, and Aaron–should attend if they are not using leave on these days. GIS team members may listen in, if they have time and interest, but that team will be doing their own strategic work later, likely in the fall.</p>
+<p>You may need to reschedule other meetings, or let stakeholders or project managers know that projects will not see much development during our retreat. Please clear your work calendar so that you can attend. You might add an automatic reply to your email during the retreat, as well.</p>
 <p>If you are using leave during the retreat, please do not reschedule that leave. We will miss your contributions, but you will have access to the retreat agenda and background info, and the work products from our sessions. If follow-up work emerges for you, Jason will talk over that assignment with you.</p>
 </section>
 <section id="venue" class="level2">
@@ -195,11 +191,12 @@ ul.task-list li input[type="checkbox"] {
 <section id="agenda" class="level2">
 <h2 class="anchored" data-anchor-id="agenda">Agenda</h2>
 <ul>
-<li>Prework
+<li><a href="./retreat_day_00_prework.html">Prework</a>
 <ul>
+<li>Briefly describing a hypothetical, future OEDA project</li>
 <li>Identifying value-adding activities for OEDA individual contributors</li>
 </ul></li>
-<li>Day 1
+<li>Day 1: Tuesday, August 5
 <ul>
 <li>Morning
 <ul>
@@ -207,18 +204,34 @@ ul.task-list li input[type="checkbox"] {
 <li>Identifying unit outputs</li>
 <li>Identifying unit audiences</li>
 <li>Identifying unit inputs</li>
+<li>Now/next/later prioritization of OEDA units</li>
 </ul></li>
-<li>Afternoon</li>
-</ul></li>
-<li>Day 2
+<li>Afternoon
 <ul>
-<li>Morning</li>
-<li>Afternoon</li>
+<li>TBA</li>
 </ul></li>
-<li>Day 3
+</ul></li>
+<li>Day 2: Thursday, August 7
 <ul>
-<li>Morning</li>
-<li>Afternoon</li>
+<li>Morning
+<ul>
+<li>TBA</li>
+</ul></li>
+<li>Afternoon
+<ul>
+<li>TBA</li>
+</ul></li>
+</ul></li>
+<li>Day 3: Monday, August 11
+<ul>
+<li>Morning
+<ul>
+<li>TBA</li>
+</ul></li>
+<li>Afternoon
+<ul>
+<li>TBA</li>
+</ul></li>
 </ul></li>
 </ul>
 </section>
@@ -323,7 +336,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/odhs-orrai\.github\.io\/2025-team-retreat");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -337,6 +350,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

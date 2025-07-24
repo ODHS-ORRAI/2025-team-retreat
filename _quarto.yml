@@ -14,9 +14,7 @@ website:
         text: Pre-work
       - href: retreat_day_01_am.qmd
         text: Day 1 | AM
-      - href: retreat_day_01_pm.qmd
-        text: Day 1 | PM
-  
+
 format:
   html:
     theme:
@@ -25,5 +23,9 @@ format:
     css: styles.css
     toc: true
     toc-depth: 5
-editor: visual
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/odhs-orrai\.github\.io\/2025-team-retreat'
+editor: source
 

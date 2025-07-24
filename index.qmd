@@ -37,9 +37,9 @@ The retreat will incorporate a 15-minute break mid-morning and mid-afternoon and
 
 ## Attendance
 
-All OEDA team members--Andrew, Lets, Kathryn, Michael, Pascal, Marisol, and Aaron--should attend if they are not using leave on these days. GIS team members may listen in, if they have time and interest, but that team will be doing their own strategic work later in August.
+All OEDA team members--Andrew, Lets, Kathryn, Michael, Pascal, Marisol, and Aaron--should attend if they are not using leave on these days. GIS team members may listen in, if they have time and interest, but that team will be doing their own strategic work later, likely in the fall.
 
-You may need to reschedule other meetings, or let stakeholders or project managers know that projects will not see development during these three days. Please clear your work calendar so that you can attend.
+You may need to reschedule other meetings, or let stakeholders or project managers know that projects will not see much development during our retreat. Please clear your work calendar so that you can attend. You might add an automatic reply to your email during the retreat, as well.
 
 If you are using leave during the retreat, please do not reschedule that leave. We will miss your contributions, but you will have access to the retreat agenda and background info, and the work products from our sessions. If follow-up work emerges for you, Jason will talk over that assignment with you.
 
@@ -49,21 +49,28 @@ Microsoft Teams meeting
 
 ## Agenda
 
--   Prework
+-   [Prework](retreat_day_00_prework.qmd)
+    -   Briefly describing a hypothetical, future OEDA project
     -   Identifying value-adding activities for OEDA individual contributors
--   Day 1
+-   Day 1: Tuesday, August 5
     -   Morning
         -   Grouping activities into OEDA System 1 units
         -   Identifying unit outputs
         -   Identifying unit audiences
         -   Identifying unit inputs
+        -   Now/next/later prioritization of OEDA units
     -   Afternoon
--   Day 2
+        - TBA
+-   Day 2: Thursday, August 7
     -   Morning
+        - TBA
     -   Afternoon
--   Day 3
+        - TBA
+-   Day 3: Monday, August 11
     -   Morning
+        - TBA
     -   Afternoon
+        - TBA
 
 ## Community agreements
 

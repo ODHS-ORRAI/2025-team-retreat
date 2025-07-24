@@ -22,6 +22,49 @@ The goal here is not to create an agenda, but to hear from one another about the
 
 This project does not have to be feasible in OEDA's current state.
 
-### Activity
+### Pre-work activity
 
 Each OEDA individual contributor will talk for two or three minutes on a hypothetical future OEDA project.
+
+## Prework for Day 1, Activity #2 -- Brainstorming OEDA Actions
+
+### Purpose
+
+OEDA does not have defined System 1 units, defaulting instead to individual employees and individual projects. While System 1 is defined at the level of *units*, and not activities or processes, one route to defining units is to consider the typical work of an organization and then group those activities into functional units. That is what we will be trying to do.
+
+In this pre-work activity, we will list the activities that the OEDA team, currently constituted, can or could engage in to bring value to cross-agency stakeholders.
+
+### Prompt
+
+*What are OEDA's core value-creating activities? What could those be in OEDA's future? What should they be?*
+
+### Background material
+
+System 1 activities should fit within the DAS classification for OEDA positions. I have provided some [background on OEDA position types](retreat_support_OEDA_positions.qmd) to help with this alignment as you brainstorm.
+
+### Pre-work activity
+
+Populate a whiteboard with post-it notes reflecting the value-creating activities of OEDA, those in which our staff receive some input and act on it, adding value which is ultimately realized in a deliverable to a stakeholder.
+
+1.  Open the [Prework - OEDA Actions whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_2138725456?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c)
+2.  Find the area labeled with your name
+3.  Add multiple **yellow** [sticky-notes](https://support.microsoft.com/en-us/office/add-notes-and-note-grids-in-whiteboard-6e29d215-a3e0-431b-8ad4-6076fb444daf), one for each action you brainstorm
+4.  Sticky notes should satisfy the constraints listed below
+
+### Constraints
+
+-   Each card should be a [**transitive verb**](https://www.grammarly.com/blog/parts-of-speech/transitive-verbs/) and a [**direct object**](https://www.grammarly.com/blog/parts-of-speech/direct-object/)
+    -   The direct object should relate either to
+        -   The inputs to the activity (e.g. *analyze data*)
+        -   Or to the outputs from the activity (e.g. *create a slide deck*)
+- Each card should be **unique**, appearing just once across the entire whiteboard (your section and those of everyone else)
+-   Include activities that contribute to **products**; don't include HR training, Workday entry, etc.
+-   Activities should **represent the breadth OEDA positions,** based on their general classifications
+-   Include activities only for **positions managed by the OEDA manager**; exclude OEDA management, ORRAI leadership, and the data warehouse and reporting positions that OEDA funds
+
+To keep cards unique, you might consider including a modifier/adjective to add specificity to the object. You could freely add one to your card; you might add a note to someone else's card for them to consider a modifer. E.g. rather than a card for "analyze data", you might distinguish between "analyze survey data", "analyze evaluation data", "analyze interview data", or "analyze economic data."
+
+
+### Deliverable
+
+A list of activities that OEDA staff or teams of staff can perform independently, are within the scope of DAS classifications for RA3, ECON3, and ISS7 positions, and which create value for stakeholders.
