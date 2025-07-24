@@ -14,7 +14,7 @@ If someone is speaking, though, and you want to say something, please [raise you
 
 ## Teams meeting reactions
 
-Consider using reactions--applause, hearts, thumbs up--to express your agreement, thank team members for the contributions, and keep the energy and engagement up in the meeting.
+Consider using [reactions](https://support.microsoft.com/en-us/office/express-yourself-in-microsoft-teams-meetings-with-live-reactions-a8323a40-3d07-4129-934b-305370a36e21)--applause, hearts, thumbs up--to express your agreement, thank team members for the contributions, and keep the energy and engagement up in the meeting.
 
 ## Teams chat
 
@@ -25,16 +25,11 @@ Use the chat throughout the retreat for either
 
 As a rough guideline, anything that is more than two short sentences should not probably not be a chat. Instead, raise your hand and contribute it to the meeting.
 
-## Teams breakout rooms
-
-We will occasionally use a think-pair-share approach, where each member of OEDA first spends a little time collecting their own thoughts in response to a prompt or task and then teams up with 1 or 2 other team members to share with a smaller group, before reporting out on the small group's discussion to the full team. We will use breakout rooms for these smaller groups.
-
 ## Microsoft Whiteboard
 
 This will be our primary collaboration space for virtual sticky notes, mapping, and voting.
 
 [Microsoft Teams guidance on adding shapes and reactions to a whiteboard](https://support.microsoft.com/en-us/office/select-shapes-and-reactions-in-whiteboard-312e53b6-5928-4bc9-a6c8-d89b263a5439)
-
 
 ## Polls
 
