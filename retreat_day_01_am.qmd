@@ -330,3 +330,25 @@ _We may not be able to formalize and build the support systems for all of our Sy
 
 ### Activity
 
+#### Group placement & discussion (20 minutes)
+
+- Draw a 2 x 2 matrix on a whiteboard
+- X axis: Readiness ("Needs significant work" to "Ready today")
+- Y axis: Importance ("Lower strategic value" to "High strategic value")
+- Copy over the candidate unit sticky notes
+
+As a group, we will interrogate each candidate OEDA unit
+
+- Considering this unit's a) outputs and b) audiences, how high is its strategic importance to our teams core mission? The group's rough consensus will determine the vertical position of the sticky note on the plane.
+- Considering the a) inputs we identified today and b) the state or need of standard operating procedures and other supports, how ready are we to operate this unit effectively today? Again, rough consensus will determine the horizontal position for the sticky note.
+
+#### Define the zones (10 minutes)
+
+Once the units are placed in the matrix, we will assign labels: Now, Next, Later
+
+It could be that anything with high readiness is *Now*, and the other two quadrants become *Next* and *Later* based on their importance.
+
+Or it could be that anything with low importance is *Later*, and the other two quadrants are *Next* and *Later* based on their readiness.
+
+## 2:30 -- 15-minute break
+
