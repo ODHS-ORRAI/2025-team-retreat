@@ -8,7 +8,7 @@ Tuesday, August 5 -- 2:45-4:55
 
 We shift from the particulars of the day-to-day work of research in OEDA (System 1) to the highest level of the Viable System Model: System 5. This system is about identity, purpose, and values.
 
-System 5 should be maintained and supported by ORRAI leadership, agency leadership, and our Advisory Committee. But while our committee is still nascent, we have the opportunity to define our identity, rather than having it identified for us. This afternoon's work will directly inform our briefs to Peter, Liesl, and the advisory committee, and should help set our mission, vision, and values.
+System 5 should be maintained and supported by ORRAI leadership, agency leadership, and our Advisory Council. But while our committee is still nascent, we have the opportunity to define our identity, rather than having it identified for us. This afternoon's work will directly inform our briefs to Peter, Liesl, and the Advisory Council, and should help set our mission, vision, and values.
 
 ### Brief agenda
 
@@ -21,7 +21,7 @@ System 5 should be maintained and supported by ORRAI leadership, agency leadersh
 
 ### Day 1, Afternoon Deliverables
 
-A values-to-impact map. This is the first draft of a visual artifact that demonstrates how OEDA's daily values contribute to our ultimate purpose. This will inform briefings to our director, agency leadership, and the nascent OEDA advisory committee. This map can help drive high-level value statements, but could also be the seed of practical tools, like a rubric for evaluating which proposals become part of our portfolio.
+A values-to-impact map. This is the first draft of a visual artifact that demonstrates how OEDA's daily values contribute to our ultimate purpose. This will inform briefings to our director, agency leadership, and the nascent OEDA Advisory Council. This map can help drive high-level value statements, but could also be the seed of practical tools, like a rubric for evaluating which proposals become part of our portfolio.
 
 ## 2:45 -- Activity #1 -- Qualities of What We Make
 
@@ -50,7 +50,7 @@ We will identify and align on the essential characteristics that should define w
 
 #### Silent Individual Brainstorming (5 minutes)
 
-Team members silently add sticky notes with single adjectives to the whiteboard. It's a brainstorm: strive for quantity over quality!
+Team members silently add sticky notes with single adjectives to the [Qualities of What We Create whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_2247411050?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c). It's a brainstorm: strive for quantity over quality!
 
 #### Alignment & refinement (15 minutes)
 
@@ -84,7 +84,7 @@ To define the experience of working with OEDA. This can help establish our profe
 
 #### Silent Individual Brainstorming (5 minutes)
 
-Team members silently add sticky notes with single adjectives to the whiteboard.
+Team members silently add sticky notes with single adjectives to the [Qualities of How We Work whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1578114249?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c).
 
 #### Alignment & refinement (15 minutes)
 
@@ -125,6 +125,8 @@ To articulate the meaningful, real-world, outcome-related changes to which our w
 3.    What state systems will become more efficient? More effective? More equitable?
 4.    What conversations will be started that weren't happening before?
 
+We can use the [OEDA Impacts whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_527112126?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c).
+
 #### Constraints
 
 - Focus on external change. Our statements should describe effects outside of our team: in policy, operations, public understanding, etc.
@@ -150,18 +152,97 @@ We will create a table with three columns and several rows. Cells in the leftmos
 
 In the middle, we will identify the *mechanism(s)* through which those values can help bring about the impacts we want to see.
 
-For instance, if one of our product qualities relates to accuracy or trustworthiness, and one of our impacts is "Policymakers make evidence-based decisions", the *how* in the middle column might be "because they have confidence in the integrity of the data."
+For instance, if one of our product qualities relates to ease of understanding and highlighting key takeaways, and one of our impacts is "program managers can use our evidence to adapt their daily practices and improve services", the *how* in the middle column might be "because we translate complex statistical findings into accessible language and visuals, allowing non-technical audiences to grasp the core message and its implications for their work."
+
+<!-- Examples
+
+## Trustworthiness
+Value / Quality:
+Rigorous & Defensible. We value work that is methodologically sound, thorough, and can withstand critical scrutiny.
+
+Mechanism / Contribution (The "How"):
+...because when leaders and their staff know that our conclusions are built on an unbiased and verifiable evidence base, they don't have to second-guess the data's integrity.
+
+Impact:
+...so that state leaders can confidently base high-stakes policy and budget decisions on our findings.
+
+(This trio connects the internal value of methodological rigor directly to the external impact of confident, evidence-based leadership.)
+
+# Partnership
+Value / Quality:
+Collaborative & Responsive. We value a process where we act as true partners, listening to our stakeholders' needs and adapting to them.
+
+Mechanism / Contribution (The "How"):
+...because when partner agencies feel respected, heard, and included in the process, they become more willing to share sensitive data and co-invest their own resources in joint solutions.
+
+Impact:
+...so that siloed state agencies begin to tackle complex, cross-cutting problems (like poverty or health equity) together.
+
+(This trio connects the interpersonal value of good partnership directly to the strategic impact of breaking down government silos.)
+
+# Clarity
+Value / Quality:
+Clear & Insightful. We value products that are not just data-rich, but are also easy to understand and clearly highlight the most important takeaways.
+
+Mechanism / Contribution (The "How"):
+...because we translate complex statistical findings into accessible language and visuals, allowing non-technical audiences to grasp the core message and its implications for their work.
+
+Impact:
+...so that program managers on the front lines can understand and use our evidence to adapt their daily practices, improving services for Oregonians.
+
+(This trio connects the communication value of clarity directly to the ground-level impact of improving actual service delivery.)
+
+# Proactivity
+Value / Quality:
+Forward-Looking & Proactive. We value the ability to look over the horizon, anticipating future questions and identifying emerging trends before they become critical issues.
+
+Mechanism / Contribution (The "How"):
+...because we independently scan for and analyze developing trends, providing leaders with early warnings and the necessary runway to plan and intervene before a situation demands reactive crisis management.
+
+Impact:
+...so that the state can shift from constantly reacting to problems to designing proactive, preventative strategies.
+
+(This trio connects the value of strategic foresight directly to the high-level government impact of moving from a reactive to a proactive posture.)
+
+
+# Impartiality
+Value / Quality:
+Objective & Impartial. We value our role as a neutral, non-partisan source of information, committed to presenting facts without bias or agenda.
+
+Mechanism / Contribution (The "How"):
+...because all parties, regardless of their position, can trust us to be an honest broker of information, creating a shared, factual foundation that can be used to ground difficult conversations.
+
+Impact:
+...so that politically contentious debates can become more productive and less polarized, leading to more durable policy solutions.
+
+(This trio connects the civic value of impartiality directly to the practical impact of improving the quality and reducing the friction of political discourse.)
+
+# Holistic
+
+Example 6: The Holistic Trio
+Value / Quality:
+Integrative & Holistic. We value our unique, cross-agency mandate, striving always to connect disparate data to see the whole picture.
+
+Mechanism / Contribution (The "How"):
+...because by linking data from health, housing, and employment, we reveal how a person's journey interacts with multiple systems, making the invisible, interconnected nature of their challenges visible to policymakers.
+
+Impact:
+...so that state programs can be designed and funded around the needs of the whole person, rather than addressing complex problems in isolated fragments.
+
+(This trio connects the team's unique structural value (cross-agency view) directly to the profound service-delivery impact of treating people holistically.)
+
+-->
 
 #### Group mapping & discussion (25 minutes)
 
 For each quality, we will ask
 
 - "Which of our desired impacts does this quality help us achieve?"
-- "And *how* does it do that?"
+- "And *how* does it do that?" Don't get caught up in wordsmithing at this point. Simple sketches of ideas are fine.
 
 #### Constraints
 
-- Each connection between value(s) and impact should be explainable and clear. If the link is weak, we shouldn't force it.
+- Each connection between value(s) and impact should (eventually) be explainable and clear. If the link is weak, we shouldn't force it today.
 
 #### Deliverable
 
