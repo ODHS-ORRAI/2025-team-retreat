@@ -23,14 +23,13 @@ Tuesday, August 5 -- 8:05-2:30
 
 A rough model of OEDA as
 
-- a set of autonomous work units (bounding boxes)
-- each engaging in a set of relatively unique activities (yellow sticky notes)
-- on inputs received from outside the unit ()
-- creating from a set of unique outputs (green sticky notes), and
+- a set of autonomous work units
+- each engaging in a set of relatively unique activities
+- on inputs received from outside the unit
+- creating from a set of unique outputs, and
 - delivering to internal and external audiences
 
-Now/next/later prioritization of System 1 units.
-
+A now/next/later prioritization of System 1 units.
 
 ## 8:05 -- Activity #1 -- Roundtable: Imagining Our Future
 
@@ -38,29 +37,15 @@ Now/next/later prioritization of System 1 units.
 
 These quick, initial talks will get everyone coming off camera and talking to the team. They will help us begin to think about OEDA activities that our System 1 units will do, and about the kinds of complexities and challenges that Systems 2, 3, 4, and 5 should be designed to help with.
 
-The goal here is not to create an agenda, but to hear from one another about the kind of work that could be possible. I am hoping we start to think about what we and others might need to do to create the kinds of conditions where that work is possible.
-
-### Prompt
-
-*Imagine that OEDA was adequately setup to perform our mandate: integrating and analyzing cross-agency client and customer service data. Describe a kind of project that only OEDA could do in state government. Make it one that you would like to work on, preferably with others on or off of the team.*
-
--   What are some of the activities that you would contribute?
--   What would you need others to do?
--   What would make the work complex?
--   Who would find value in this work?
--   What could the impact of the work be?
-
-This project does not have to be feasible in OEDA's current state.
-
 ### Activity
 
-Each OEDA individual contributor will talk for two or three minutes on a hypothetical future OEDA project.
+Writing out your hypothetical study was [pre-work](retreat_day_00_prework.qmd) for the retreat. Each OEDA individual contributor will talk for two or three minutes on a hypothetical future OEDA project.
 
 ## 8:30 -- Activity #2 -- Reviewing OEDA Actions
 
 ### Purpose
 
-In pre-work activity, you listed the activities that the OEDA team, currently constituted, can or could engage in to bring value to cross-agency stakeholders. We will review and revise this list together.
+In [pre-work](retreat_day_00_prework.qmd) for the retreat, you listed the activities that the OEDA team, currently constituted, can or could engage in to bring value to cross-agency stakeholders. We will review and revise this list together.
 
 ### Prompt
 
@@ -76,24 +61,24 @@ Read others' contributions and add any more you think of (10 minutes)
 
 #### Alignment and refinement (20 minutes)
 
-Ask [clarifying questions](https://www.lucidmeetings.com/glossary/clarifying-question) about any of the cards. Revise cards to fit the constraints
+Ask [clarifying questions](https://www.lucidmeetings.com/glossary/clarifying-question) about any of the sticky-notes. Revise sticky-notes to fit the constraints.
 
 ### Constraints
 
--   Each card should be a [**transitive verb**](https://www.grammarly.com/blog/parts-of-speech/transitive-verbs/) and a [**direct object**](https://www.grammarly.com/blog/parts-of-speech/direct-object/)
+-   Each sticky-note should be a [**transitive verb**](https://www.grammarly.com/blog/parts-of-speech/transitive-verbs/) and a [**direct object**](https://www.grammarly.com/blog/parts-of-speech/direct-object/)
     -   The direct object should relate either to
         -   The inputs to the activity (e.g. *analyze data*)
         -   Or to the outputs from the activity (e.g. *create a slide deck*)
-- Each card should be **unique**, appearing just once across the entire whiteboard (your section and those of everyone else)
+- Each sticky-note should be **unique**, appearing just once across the entire whiteboard (your section and those of everyone else)
 -   Include activities that contribute to **products**; don't include HR training, Workday entry, etc.
 -   Activities should **represent the breadth OEDA positions,** based on their general classifications
 -   Include activities only for **positions managed by the OEDA manager**; exclude OEDA management, ORRAI leadership, and the data warehouse and reporting positions that OEDA funds
 
-To keep cards unique, you might consider including a modifier/adjective to add specificity to the object. You could freely add one to your card; you might add a note to someone else's card for them to consider a modifier. E.g. rather than a card for "analyze data", you might distinguish between "analyze survey data", "analyze evaluation data", "analyze interview data", or "analyze economic data."
+To keep sticky-note unique, you might consider including a modifier/adjective to add specificity to the object. You could freely add one to your sticky-note; you might add a note to someone else's card for them to consider a modifier. E.g. rather than a sticky-note for "analyze data", you might distinguish between "analyze survey data", "analyze evaluation data", "analyze interview data", or "analyze economic data."
 
 ### Deliverable
 
-A list of activities that OEDA staff or teams of staff can perform independently, are within the scope of DAS classifications for RA3, ECON3, and ISS7 positions, and which create value for stakeholders.
+A list of activities that OEDA staff or teams of staff can perform independently, are within the [scope of DAS classifications for RA3, ECON3, and ISS7 positions](retreat_support_OEDA_positions.qmd), and which create value for stakeholders.
 
 
 ## 9:00 -- 5-minute break
@@ -158,7 +143,7 @@ In this activity, we will explore whether grouping the OEDA actions from Activit
 
 *How many units could OEDA have?* There is no preset floor or ceiling on the number of units. Strive to make OEDA's work unit structure as simple as possible, but not simpler.
 
-*What about staffing units?* Do not worry yet about attaching positions or individuals to units. OEDA staff have cross-cutting skills and content expertise, so may end up participating in several functional units, perhaps even on the same project. The same functional unit may have different staff from project to project. This structure is reminiscent of [fission-fusion societies](https://en.wikipedia.org/wiki/Fission%E2%80%93fusion_society). We will address this later.
+*What about staffing units?* Do not worry yet about attaching positions or individuals to units. OEDA staff have cross-cutting skills and content expertise, so may end up participating in several functional units, perhaps even on the same project. The same functional unit may have different staff from project to project. This structure is reminiscent of [fission-fusion societies](https://en.wikipedia.org/wiki/Fission%E2%80%93fusion_society).
 
 *What if a function is needed for more than one unit?* If you feel that you need to duplicate a function across more than one unit, first consider:
 

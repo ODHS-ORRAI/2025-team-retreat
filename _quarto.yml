@@ -14,6 +14,8 @@ website:
         text: Pre-work
       - href: retreat_day_01_am.qmd
         text: Day 1 | AM
+      - href: retreat_day_01_pm.qmd
+        text: Day 1 | PM
 
 format:
   html:

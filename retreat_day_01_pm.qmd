@@ -4,27 +4,169 @@ title: "OEDA Planning Retreat - Day 1 - Afternoon"
 
 ## Intro to Day 1, Afternoon: Our Purpose
 
-Tuesday, August 5 -- 2:05-5:00
+Tuesday, August 5 -- 2:45-4:55
+
+We shift from the particulars of the day-to-day work of research in OEDA (System 1) to the highest level of the Viable System Model: System 5. This system is about identity, purpose, and values.
+
+System 5 should be maintained and supported by ORRAI leadership, agency leadership, and our Advisory Committee. But while our committee is still nascent, we have the opportunity to define our identity, rather than having it identified for us. This afternoon's work will directly inform our briefs to Peter, Liesl, and the advisory committee, and should help set our mission, vision, and values.
 
 ### Brief agenda
 
-- 02:05 -- Roundtable: Imagining Our Future
-- 08:30 -- Review & Align: OEDA Activities (yellow sticky notes)
-- 09:05 -- Brainstorm & Align: Creating OEDA Units (bounding boxes)
-- 10:15 -- Break
-- 10:30 -- Brainstorm & Align: Identifying Unit Outputs (green sticky notes)
-- 11:20 -- Brainstorm & Align: Identifying Unit Audiences (blue sticky notes)
-- Noon -- Lunch
-- 01:05 -- Brainstorm & Align: Identifying Unit Inputs (orange sticky notes)
+- 02:45 -- Brainstorm & Align: The Qualities of What We Make
+- 03:10 -- Brainstorm & Align: The Qualities of How We Work
+- 03:35 -- 5-minute Break
+- 03:40 -- Brainstorm & Align: The Impact We Want to Create
+- 04:05 -- Brainstorm & Align: Connecting Values to Impact
+- 04:40 -- End Day 1
 
-### Day 1, Morning Deliverables
+### Day 1, Afternoon Deliverables
 
-A rough model of OEDA as
+A values-to-impact map. This is the first draft of a visual artifact that demonstrates how OEDA's daily values contribute to our ultimate purpose. This will inform briefings to our director, agency leadership, and the nascent OEDA advisory committee. This map can help drive high-level value statements, but could also be the seed of practical tools, like a rubric for evaluating which proposals become part of our portfolio.
 
-- a set of autonomous work units (bounding boxes)
-- each engaging in a set of relatively unique activities (yellow sticky notes)
-- on inputs received from outside the unit ()
-- creating from a set of unique outputs (green sticky notes), and
-- delivering to internal and external audiences
+## 2:45 -- Activity #1 -- Qualities of What We Make
 
-## 8:05 -- Activity #1 -- Roundtable: Imagining Our Future
+<!-- 
+
+* Rigor and trustworthiness
+Rigorous, thorough, unbiased/objective, verifiable/defensible, accurate
+
+* Clarity and usability
+Clear, lucid, accessible, concise, well-structured, organized, insightful
+
+* Relevant and impactful
+Actionable, relevant, timely, impactful, consequential, authoritative, thought-provoking
+
+-->
+
+### Purpose
+
+We will identify and align on the essential characteristics that should define what we create for our stakeholders. This may help create a shared standard of quality and a common language for describing the things we create.
+
+### Prompt
+
+*Imagine a key stakeholder--a legislator, an agency head, a program manager--or one of your OEDA peers has just finished reading one of your reports or using one of your tools. They turn to a colleague and say "This work is so ____". What adjectives would we want them to use?*
+
+### Activity
+
+#### Silent Individual Brainstorming (5 minutes)
+
+Team members silently add sticky notes with single adjectives to the whiteboard. It's a brainstorm: strive for quantity over quality!
+
+#### Alignment & refinement (15 minutes)
+
+We will consider each adjective, one at a time. For each, we will determine whether it should sit next to an adjective that we've already considered, or should (for now) sit alone. We may have to split and regroup as we go!
+
+#### Labeling (5 minutes)
+
+For each group of adjectives, assign a good-enough-for-now label that reflects the theme of that group.
+
+### Constraints
+
+- Each sticky note should be an *adjective* or short adjectival phrase (e.g. "data-rich")
+- Focus on the artifact. Each sticky should be something that could describe a product, deliverable, or output; *processes* and *working relationships* are the next activity
+
+### Deliverable
+
+A set of (perhaps 3-5) core themes, each supported by a cluster of descriptive adjectives, that define OEDA's shared vision for the qualities of its products.
+
+
+## 3:10 -- Activity #2 -- Qualities of How We Work
+
+### Purpose
+
+To define the experience of working with OEDA. This can help establish our professional ethos and set internal expectations for how we engage with partners, stakeholders, and each other.
+
+### Prompt
+
+*Imagine the same stakeholder or peer describing the __experience__ of a project with you. They say "Working with this team is ..." What adjectives would you like to hear them using to describe our processes, collaboration, communication, and partnership?*
+
+### Activity
+
+#### Silent Individual Brainstorming (5 minutes)
+
+Team members silently add sticky notes with single adjectives to the whiteboard.
+
+#### Alignment & refinement (15 minutes)
+
+As before, we will consider each adjective, one at a time, determining whether it should sit next to an adjective that we've already considered, or should (for now) sit alone.
+
+#### Labeling (5 minutes)
+
+For each group of adjectives, assign a good-enough-for-now label that reflects the theme of that group.
+
+### Constraints
+
+- Each sticky note should be an *adjective* or short adjectival phrase
+- Focus on the experience. Each sticky should be something about processes, procedures, communication, collaboration - not the products.
+
+### Deliverable
+
+A set of 3-5 core themes--again each supported by a cluster of descriptive adjectives--that define our shared vision for our collaborative process, for how we work with one another and our stakeholders.
+products.
+
+## 3:35 -- 5-minute break
+
+## 3:40 -- Activity #3 - The Impact We Want to Create
+
+### Purpose
+
+To articulate the meaningful, real-world, outcome-related changes to which our work should contribute. We will move beyond our outputs to outcomes: change for agency processes and policies, change for Oregonian's experiences, and so on. These impacts can help form the core of OEDA's purpose.
+
+### Prompt
+
+*We've defined the qualities of our work and of our process. Here, we ask the most important question: __So what?__ If we do all this high-quality, collaborative work, what will change in the world? What impact will it have? Months and years down the road, how would we complete the sentence: "Because of our work..."?*
+
+### Activity
+
+#### Group brainstorm & discussion (25 minutes)
+
+1.    What decisions will be better informed?
+2.    Whose lives will be improved?
+3.    What state systems will become more efficient? More effective? More equitable?
+4.    What conversations will be started that weren't happening before?
+
+#### Constraints
+
+- Focus on external change. Our statements should describe effects outside of our team: in policy, operations, public understanding, etc.
+- Consider using active verbs, framing impacts as actions or changes. E.g. rather than "Better information for policy makers" maybe something like "Policy makers make evidence-based budget decisions."
+
+#### Deliverable
+
+This activity is not setting an agenda. We will return to potential impacts many times in the future. For now, this will be a messy, anything-goes, first attempt at naming some of the things that OEDA could try to change in the future of Oregon state government.
+
+## 4:05 -- Activity #4 -- Connecting Values to Impact
+
+### Purpose
+
+In this capstone activity, we will synthesize the afternoon's work by explicitly linking our values -- the qualities of our products and process (Activities #1 & #2, above) -- to our purpose -- the kinds of impacts we want to create (Activity #3).
+
+### Prompt
+
+*How do the things we value in our work and in our process directly enable the impacts we want to see in the world? Let's connect our how and our why.*
+
+### Activity
+
+We will create a table with three columns and several rows. Cells in the leftmost column will contain one or more qualities. Qualities can be repeated in different rows. Cells in the rightmost column will contain one or more impacts.
+
+In the middle, we will identify the *mechanism(s)* through which those values can help bring about the impacts we want to see.
+
+For instance, if one of our product qualities relates to accuracy or trustworthiness, and one of our impacts is "Policymakers make evidence-based decisions", the *how* in the middle column might be "because they have confidence in the integrity of the data."
+
+#### Group mapping & discussion (25 minutes)
+
+For each quality, we will ask
+
+- "Which of our desired impacts does this quality help us achieve?"
+- "And *how* does it do that?"
+
+#### Constraints
+
+- Each connection between value(s) and impact should be explainable and clear. If the link is weak, we shouldn't force it.
+
+#### Deliverable
+
+A values-to-impact map. This is the first draft of a visual artifact that demonstrates how OEDA's daily values contribute to our ultimate purpose. This map can help drive high-level value statements, but could also be the seed of practical tools, like a rubric for evaluating which proposals become part of our portfolio.
+
+### 4:40 -- End for the day
+
+A very long Day 1 is done!
