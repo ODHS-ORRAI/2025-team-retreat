@@ -1,0 +1,220 @@
+---
+title: "OEDA Planning Retreat - Day 2 - Morning"
+---
+
+## Intro to Day 2, Morning: Designing our Coordination Systems
+
+Thursday, August 7 -- 8:00-Noon
+
+On Day 1, we worked to define our core operational units--our System 1s--and created a Now, Next, Later roadmap for designing, implementing, and supporting them. We have a clear(er) picture of their inputs, outputs, and the qualities that define good products and good processes for our team.
+
+In this session, we focus on System 2. If System 1 is *what we do*, System 2 is *how we work together smoothly.* System 2 is the grease, the shock absorbers, and the traffic cops of OEDA. It's the set of agreements and tools that prevents our autonomous units from creating friction, duplicating effort, or getting stuck.
+
+
+
+### Brief agenda
+
+- 08:00 -- Debrief Day 1
+- 08:30 -- Brainstorm & Align: Where's the Friction?
+- 09:30 -- Brainstorm & Align: Reducing Friction
+- 09:50 -- 15-minute break
+- 10:05 -- Reducing Friction (continued)
+- 10:45 -- Brainstorm & Align: Scheduling solutions
+- Noon -- Break for lunch
+
+### Day 2, Morning Deliverables
+
+Our goal today is not to write full standard operating procedures or build templates. It's to create a prioritized blueprint of the System 2 tools we need to develop in the coming months. We'll move from identifying problems to brainstorming solutions, and finally to creating a concrete plan.
+
+## 8:00 -- Debrief Day 1
+
+### Purpose
+
+Get everyone off camera, talking, and helping thinking back on Day 1 and think ahead to the rest of today.
+
+### Prompt
+
+* Any thoughts or feelings that are top-of-mind thinking back on Day 1?
+* Has there been one idea from Tuesday that has stuck with you?
+
+* Looking back at the list of candidate "work units" we started to define, which one feels the most solid or real to you? Which one still feels most ambiguous or challenging to picture in practice?
+* We applied aspects of a very formal model-the Viable System Model--to our work, which is often creative, fluid, and conducted by a sole practitioner. What part of using that structured approach felt the most helpful or eye opening? What part felt the most awkward or difficult?
+* When we discussed the *inputs* to or *outputs* from our work, what was the most surprising dependency or connection we uncoverwed that maybe we hadn't explicitly acknowledged before?
+
+* While there has been variation in ORRAI projects, it's not uncommon for work to have been a "one-person-show" from start to finish. What are the biggest opportunities you see in a model of potential distinct units with clear hand-offs? What are the biggest risks or potential downsides we need to be mindful of as we go forward?
+* For our work to be truly autonomous in these units, we need to trust one another's outputs. What needs to be true for you to feel confident in accepting a hand-off from another unit without feeling the need to re-do the work yourself?"
+* What's the most interesting part about formalizing our work this way? What's the most intimidating or concening part?
+
+* On a process level, how is this retreat format working? Is the pattern of individual brainstorming followed by group discussion and alignment feeling productive and inclusive for you?
+* Is there one thing we could tweak in how things are being facilitated or how we work together to make today's session even more effective?
+
+* Thinking about the friction points and dependencies that we hinted at in Day 1, what's the single biggest coordination problem you're hoping we can discuss the need for, or even start designing a solution for, today?
+
+### Activity
+
+Each team member selects **one** of the bullets above and shares briefly their response to the question or topic.
+
+If we have time after everyone has done one, others can then react to their teammates' contributions, or can contribute new responses to other bullets.
+
+## 8:30 - Activity #1 - Where's the friction?
+
+### Purpose
+
+To identify and visualize the current and potential points of conflict, delay, and miscommunication between the team's work units, as well as with external partners. We are trying to create an alignment, a shared understanding, of the *problems* that our future System 2 should work to solve.
+
+### Prompt
+
+*Look at the __Now__ and __Next__ work units we defined on Day 1. Think about the general flow of work from initial idea or request, through the hands of one or more of our units, to a final product for a stakeholder. Where does the process get stuck? Where do units compete for resources? We will try to map out the grit and friction in our emerging system.*
+
+### Activity
+
+#### Setup (5 minutes)
+On a whiteboard, we will draw a simplified workflow: intake & scoping, data acquisition & prep, analysis & modeling, reporting & visualization, review & delivery. Perhaps additional stages like consultation, outreach & evangelism, etc.
+
+Place each of the **Now** and **Next** System 1 units into the stage(s) where they will primarily operate. (Consider: If a unit crosses several stages, does it need to? Would it be helpful to conceive of it as separate units, or narrow its scope and assign some work to another existing unit?)
+
+#### Silent brainstorming (10 minutes)
+Team members use red sticky notes to place "friction points" on the map. They should place the near the stage and/or near the unit where the friction occurs.
+
+#### Group discussion & theming (45 minutes)
+Walk through the map, stage by stage. As a group, discuss the red sticky notes, and cluster together similar issues within the same stage. 
+
+### Constraints
+
+* __Problems, not solutions:__ Each red sticky should describe a specific observed or anticipated problem or point of fiction, not a solution. A problem is something like "We don't have a single source for past research projects." A solution (still to come!) is something like "We need a knowledge base."
+* __Focus on interactions:__ The friction points should primarily be about the hand-offs and interactions *between* units or *between* the team and the outside world.
+
+### Deliverable
+
+A "fiction map" that visually represents the known and anticipated bottlenecks and pain points in OEDA's workflows. These may be clustered into defined clusters.
+
+## 9:30 - Activity #2 - Reducing friction
+
+### Purpose
+
+To brainstorm a list of tangible System 2 solutions--tools, templates, processes--that directly address the friction points we've identified.
+
+### Prompt
+
+*With luck (and work!) we've a clearer map of the likely problems in the primary work of OEDA. Here, we are proposing solutions. For each of the major clusters of friction points, what specific, tangible thing could we create to solve it? What checklists, templates, standard procedures, or communication protocols would help smooth the autonomous functioning of our units, and the connections between them? How can we reduce oscillations, uncertainty, decision fatigue, perfectionism, etc.?*
+
+#### Examples of System 2 supports
+
+*   Standardizing how work is defined and started
+    *   Project proposal template
+    *   Scoping document
+    *   Project charter template
+    *   Readiness checklist - what must be available before a unit accepts a task
+*   Ensuring quality & overcoming perfectionism
+    *   Good enough guide - a document defining different levels of rigor for different types of outputs (e.g. quickly turning around an analysis for an internal question might have different standards than a public-facing report)
+    *   Internal peer review checklist
+    *   Data dictionary template
+*   Managing workflow
+    *   Standard work checklist (for common, repeatable tasks)
+    *   Kanban boards
+*   Managing intake & prioritization
+    *   Project intake form - standardized capture of requirements
+    *   Triage protocol
+*   Managing communication & visibility
+    *   Project status update template (e.g. "this week's accomplishments, next week's priorities, challenges or support needed")
+    *   Standing meeting agendas
+    *   Decision log
+*   Managing shared resources
+    *   Shared resource calendar
+    *   Centralized project roagmad or Gantt chart for all active projects
+*   Managing handoffs & resolving conflict
+    * Formal handoff checklist - what must be accomplished by one unit before handing work to another
+    *   Escalation path documentation
+    *   Service level agreements - clarifying which units do what, and the expectations of service that other units might have of one another
+    
+  
+<!-- For peer review: code is commented, axes are labeled, findings are summarized; note that we might have peer review for code, visualizations, documents, etc. -->
+
+### Activity
+
+With the hour we have, we will not be able to produce necessary System 2 artifacts. Instead, we will list them, and later this morning will assign out work to begin creating them.
+
+If we still have time after addressing any major clusters we identified during Activity #1, we can turn to other individual friction points.
+
+#### Silent brainstorming (20 minutes)
+
+Brainstorm as many concrete solutions as possible. Create each solution as a blue sticky-note and attach it to a cluster or to an individual red sticky-not friction point. Focus on quantity and variety over quality. We will later be selective in which we might pursue.
+
+
+## 9:50 - 15-minute break
+
+## 10:05 - Activity #2 (continued)
+
+### Activity (continued)
+
+#### Group discussion & refinement (40 minutes)
+
+* Work cluster-by-cluster
+* First, ask [clarifying questions](https://www.lucidmeetings.com/glossary/clarifying-question) about offered solutions
+* Then, refine each to fit the constraints
+* Finally, using [dot voting](https://lucid.co/blog/dot-voting) determine the preferred solution(s) the group might pursue for that cluster
+
+<!-- Use 1/4 the number of options as the number of dots -->
+
+### Constraints
+
+* __Tangible artifacts:__ Our next steps in creating solutions will be more straightforward if we constrain our proposed solutions to tangible things. Instead of offering up "better communication," we might propose "a weekly 15-minute stand-up meeting" or "a standardized project update email template"
+* __Name the tool:__ Give your proposed solution a good-enough-for-now name (e.g. "project intake form", "data dictionary template", "knowledge bank of completed projects", "code style review checklist", "code style automator", "Zotero template for annotated bibliographies")
+
+### Deliverable
+
+A process solutions backlog. This will be a categorized list--and one roughly prioritized within category with the dot voting--of potential System 2 mechanisms, with each solution linked to the specific problem it is designed to solve.
+
+## 10:45 - Activity #3 - Scheduling solutions
+
+### Purpose
+
+To transform the backlog of solutions into a prioritized action plan, with clear ownership and timelines, ensuring that ideas from our retreat benefit OEDA.
+
+### Prompt
+
+*To make our list of potential improvements real, we need to prioritize. We can't do everything at once. We will select a subset of potential solutions first, assign each to an individual or group owner, and set timelines.*
+
+
+### Activity
+
+#### Setup (5 minutes)
+
+* Draw a 2 x 2 matrix on a whiteboard
+* X axis: Readiness ("Needs significant work" to "Ready today")
+* Y axis: Importance ("Lower strategic value" to "High strategic value")
+* Label the quadrants:
+    *   High value, low effort: Quick Wins
+    *   High value, high effort: Major Projects
+    *   Low value, low effort: Fill-ins
+    *   Low value, high effort: Thankless Tasks
+* Copy over the solutions from Activity #3
+
+* Create a separate document with a three column table
+    *   System 2 tool
+    *   Owner
+    *   Target date
+    
+#### Prioritization (30 minutes)
+
+* Rapid, time-boxed discussion for each item
+* Determine its good-enough-for-now position for both the x- and y-axis
+
+#### Action planning (30 minutes)
+
+* Focus only on the Quick Wins and Major Projects
+* For each solution, assign a single owner
+* For each solution, set a realistic target for an ugly first draft
+
+It is absolutely appropriate to assign the creation of some or many System 2 supports to Jason as the OEDA manager. There may be supports that others on the team have particular interest or expertise with.
+
+### Constraints
+
+* __Single owner:__ In our project management nomenclature, this is the _accountable_ person. This is the champion of this idea who will be responsible for drafting the tool and getting feedback, but not necessarily doing all the work alone.
+* __No thankless tasks:__ Nobody gets one of these. There is plenty to do before we ever think about them.
+
+### Deliverable
+
+A prioritized **OEDA Sytem 2 Action Plan**. This is a table listing the high-priority tools to be created, the name of the team member accountable for leading the development of each, and a target completion date for a first version.
+
+## 11:50 Lunch

@@ -240,6 +240,8 @@ For each quality, we will ask
 - "Which of our desired impacts does this quality help us achieve?"
 - "And *how* does it do that?" Don't get caught up in wordsmithing at this point. Simple sketches of ideas are fine.
 
+I've created a simple [Word document](https://dhsoha.sharepoint.com/:w:/r/teams/ODHS-ORRAI-OEDA/Shared%20Documents/OEDA%20Governance/Document.docx?d=w22526cfb61a147688043d3ee3005f64d&csf=1&web=1&e=iuRQV0) to house this activity.
+
 #### Constraints
 
 - Each connection between value(s) and impact should (eventually) be explainable and clear. If the link is weak, we shouldn't force it today.
