@@ -1,0 +1,164 @@
+---
+title: "OEDA Planning Retreat - Day 2 - Afternoon"
+---
+
+## Intro to Day 2, Afternoon: Building a strategic radar
+
+Thursday, August 7 -- 1:00-5:00
+
+Our goal in this session is to define OEDA's System 4 functions by (1) creating a clear set of requests for intelligence from leadership and our nascent OEDA Advisory Council, and (2) building a clear plan for the team to proactively scan the environment.
+
+In the morning, we'll have designed shock absorbers and grease to ease the functions of System 1. System 3, still to come, is about managing the "here and now" of those System 1 units. System 4 is about bringing in enough information about the environment to regularly course correct our "here and now" to better meet the needs of the future. System 4 is OEDA's radar, periscope, and R&D lab. It's the function that looks to the horizon, looks to the future, scans the political and technological environment, and identifies the opportunities and threats ahead. It's how we can prevent becoming a reactive service desk and become a proactive, strategic partner.
+
+
+
+
+### Brief agenda
+
+- 01:05 -- 
+
+### Day 2, Afternoon Deliverables
+
+Our goal today is not to write full standard operating procedures or build templates. It's to create a prioritized blueprint of the System 2 tools we need to develop in the coming months. We'll move from identifying problems to brainstorming solutions, and finally to creating a concrete plan.
+
+## 1:05 -- Activity #1 -- Mapping What We Cannot See
+
+### Purpose
+
+To identify the critical categories of external intelligence the team needs to do proactive, high-impact work. Before we can ask for information, we need to be clear about what we need to know.
+
+### Prompt
+
+*To be strategic, we cannot operate in a vacuum. If we were to design the perfect intelligence briefing for our team, what would be in it? What information about future policy debates, emerging agency problems, and legislative priorities do we currently lack?*
+
+### Activity
+
+#### Setup
+On a [whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_3202321532?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c) start with a central mind mapping node: "Intelligence We Need to be Proactive"
+
+#### Group brainstorm - Branches (5 minutes)
+
+Identify the major branches for the mind map. These might be groups of necessary intelligence like "Legislative Landscape," "Agency Pain Points", "Cross-Agency Opportunities", "Emerging Methods & Tech", "Public Narrative," and so on.
+
+#### Individual silent brainstorm (10 minutes)
+
+As leaves extending from branches, add specific questions whose answers would bring necessary intelligence to OEDA. E.g. from "Legislative Landscape" some might be "What are the top 3 data-related questions committee chairs are asking?" or "What bills are in draft form that will have research requirements?"
+
+#### Group brain storm - Leaves - (20 minutes)
+
+Ask clarifying questions, revise to fit constraines, and align on a set of questions that feels right for the level of intelligence we need.
+
+### Constraints 
+
+Every leaf on the mind map must be phrased as an open-ended question we need an answer to.
+
+### Deliverable
+
+An "OEDA Intelligence Mind Map" that visually represents the team's critical information gaps and the key questions we need to answer in order to be a strategic.
+
+## 1:45 - 15-minute break
+
+## 1:50 - Activity #2 - Designing the ask
+
+### Purpose
+
+Transform the mind map into a concise set of requests and guidance for leadership and our nascent OEDA Advisory Council, make it easy for them to provide the intelligence we need. This will become our first external deliverable for the afternoon.
+
+### Prompt
+
+*How do we get the information identified in our mind map? We need to make it as easy as humanly possible for the ORRAI director, agency leaders, and the OEDA Advisory Council to feed us this intelligence. Can we design specific, low-effort requests for these folks?*
+
+### Activity
+
+#### Setup
+
+A shared document with three columns: Who We Ask, What We Need From Them, and How We Ask
+
+#### Collaborative writing (30 minutes)
+
+Working simultaneously, add rows to the document, populating the table. The goal is to create concrete, simple mechanisms for intelligence gathering.
+
+__Example.__ Who: OEDA Advisory Council. What: Emerging cross-agency problems. How: Standing agenda item for every quarterly meeting: "Roundtable: What is the biggest challenge on your horizon where you suspect data could help?"
+
+__Example.__ Who: Peter. What: Key leader concerns and information sources. How: A monthly 15-minute check-in specifically to ask: "What is keeping agency leaders up at night? and "What reports or articles have you read recently that we should also read?"
+
+#### Revision and alignment (15 minutes)
+
+Quickly bucket the items into Now, Next, and Later categories.
+
+### Constraints
+
+Each request must be low-effort for the person being asked. A recurring question in a meeting is probably better than requesting a written report.
+
+### Deliverable
+
+A one-pager: _Keeping Your Cross-Agency Strategic_ (or a title that is less dumb and ChatGPT-y). This document lists the simple, recurring ways that leaders and advisors can provide vital intelligence to the team.
+
+## 2:35 - 15-minute break
+
+## 2:50 - Activity #3 - Building our own radar
+
+### Purpose
+
+To generate a list of concrete, proactive activities that OEDA can undertake *ourselves* to gather intelligence, scan the environment, and build our strategic capabilities.
+
+### Prompt
+
+*We have identified some specific needs for intelligence from others, and some low-effort ways they can start to share that intelligence with us. But, I don't think we can just wait for others to help us see beyond our team or anticipate the future. We should intentionally build our own radar. What can we start doing to get smarter about our world? About the context of state-level human and social services in Oregon? What should we be reading? Who should we be listening to? What small experiments can we run? How can we intentionally carve out time to build our intelligence?*
+
+### Activity
+
+#### Setup
+
+A shared document with three areas: What we read/watch/listen to; Who we talk to; and What we try
+
+#### Round-robin brainstorming (45 minutes)
+
+We will go, person-by-person, each offering an idea for one of the three categories, adding entries to the areas. This shouldn't cause undue pressure or anxiety: if you don't have an idea when your name comes up, just pass. Maybe one will come the next time round.
+
+### Constraints
+
+Every idea should be an action that the team or an individual on the team can initiate themselves.
+
+### Deliverable
+
+A rich, varied, categorized list of potential internal System 4 initiatives for building OEDA's own radar.
+
+## 3:35 - 5-minute break
+
+## 3:40 - Activty 4 - System 4 Development Plan
+
+### Purpose
+
+Convert the brainstormed list from #3 into a prioritized, actionable plan with clear ownership. This will be a our second major deliverable this afternoon.
+
+### Prompt
+
+*To make sure we have some intelligence coming in under our own control, we need to commit to a few things from our list. We'll try to describe the options we've listed along the familiar dimensions of readiness and impact. We'll assign ownership to those we want to start with.*
+
+### Activity
+
+#### Setup
+
+Create the familiar two-dimensional Cartesian plane, with readiness along the x-axis, and impact along the y-axis.
+
+#### Assigning options to locations (20 minutes)
+
+As a group, quickly sort the ideas from Activity 3 into the plane.
+
+
+### Action planning (25 minutes)
+
+Focus first on quick qins (high impact, low effort) and major projects (high impact, high effort). In a shared document, identify
+
+* The initiatives
+* Owner(s)
+* First steps & deadlines
+
+### Constraints
+
+We might commit to starting no more than 5 new initiatives this quarter. Might be better to succeed at a few than struggle with many.
+
+### Deliverable
+
+A formal System 4 Development Plan outlining the new internal initiatives, who is accountable for championing them (remember, this is not the same as responsible for all the work!) and the specific first actions to be taken.

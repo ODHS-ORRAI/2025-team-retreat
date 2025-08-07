@@ -18,6 +18,8 @@ website:
         text: Day 1 | PM
       - href: retreat_day_02_am.qmd
         text: Day 2 | AM
+      - href: retreat_day_02_pm.qmd
+        text: Day 2 | PM
 
 format:
   html:

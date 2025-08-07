@@ -69,9 +69,9 @@ To identify and visualize the current and potential points of conflict, delay, a
 ### Activity
 
 #### Setup (5 minutes)
-On a whiteboard, we will draw a simplified workflow: intake & scoping, data acquisition & prep, analysis & modeling, reporting & visualization, review & delivery. Perhaps additional stages like consultation, outreach & evangelism, etc.
+On a [whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_2356190450?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c), we will draw a simplified workflow: intake & scoping, data acquisition & prep, analysis & modeling, reporting & visualization, review & delivery. Perhaps additional stages like consultation, outreach, professional development, etc.
 
-Place each of the **Now** and **Next** System 1 units into the stage(s) where they will primarily operate. (Consider: If a unit crosses several stages, does it need to? Would it be helpful to conceive of it as separate units, or narrow its scope and assign some work to another existing unit?)
+Place each of the **Now** (and, if time, **Next**) System 1 units into the stage(s) where they will primarily operate. (Consider: If a unit crosses several stages of a large project, does it need to? Would it be helpful to conceive of it as separate units, or narrow its scope and assign some work to another existing unit?)
 
 #### Silent brainstorming (10 minutes)
 Team members use red sticky notes to place "friction points" on the map. They should place the near the stage and/or near the unit where the friction occurs.
@@ -82,7 +82,8 @@ Walk through the map, stage by stage. As a group, discuss the red sticky notes, 
 ### Constraints
 
 * __Problems, not solutions:__ Each red sticky should describe a specific observed or anticipated problem or point of fiction, not a solution. A problem is something like "We don't have a single source for past research projects." A solution (still to come!) is something like "We need a knowledge base."
-* __Focus on interactions:__ The friction points should primarily be about the hand-offs and interactions *between* units or *between* the team and the outside world.
+* __Include interactions:__ Include friction points about the hand-offs and interactions *between* units or *between* the team and the outside world.
+* __Include within-unit oscillations:__ Include areas of confusion, doubt, endless re-work *within* the unit's activities.
 
 ### Deliverable
 

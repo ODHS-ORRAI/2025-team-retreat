@@ -2,7 +2,9 @@ Publishing the website
 
 Make changes to files
 
-In console, render with quarto::quarto_render()
+In console, render with
+quarto::quarto_render()
+
 In terminal (git bash) do the following:
 
 git add docs/
