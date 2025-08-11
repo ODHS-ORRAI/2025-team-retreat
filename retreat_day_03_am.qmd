@@ -1,0 +1,284 @@
+---
+title: "OEDA Planning Retreat - Day 3 - Morning"
+---
+
+## Intro to Day 3, Morning: OEDA's Operational Control
+
+Monday, August 11 -- 9:00-Noon
+
+To design the team's operational management system (System 3) by defining how we will monitor performance, allocate resources, create collaborations and common purpose, and establish a regular management rhythm to ensure we deliver on our objectives.
+
+So far, we've introduced *what* we do in System 1, *who* we are in System 5, *how* we coordinate and keep momentum in System 2, and *where* we're going in System 4. Today, we will talk about building the operational "command center" that runs the machine: System 3.
+
+System 2 provides the relatively passive tools for coordination--checklists, templates, etc. System 3 is the **active, day-to-day management function** in OEDA. System 3 is how we monitor our progress, allocate our time, and make decisions. System 3 helps ensure that our System 1 units are efficient and effective, that they are using the System 2 tools to reduce friction, that the work reflects the values from our System 5, and can be correct course and be responsive to intelligene we receive from System 4.
+
+### Brief agenda
+
+- 09:00 -- Debrief Day 2
+- 09:30 -- Activity #1 - Brainstorm & align - Metrics
+- 10:30 -- 15-minute break
+- 10:45 -- Activity #2 - Brainstorm & align - Allocation of time and energy
+- 11:14 -- Activity #3 - Brainstorm & align - OEDA's operational cadence
+- Noon -- Break for lunch
+
+### Day 3, Morning Deliverables
+
+Our goal is to leave with a clear, shared understanding of how we will manage our work over the next quarter or more, track our performance, and make operational decisions as a team.
+
+
+## 9:00 -- Debrief Days 1 & 2
+
+### Purpose
+
+Get everyone on camera, talking, and helping thinking back on Days 1 and 2, and thinking ahead to the rest of today.
+
+### Prompt
+
+* Any thoughts or feelings that are top-of-mind for you about Day 1 or 2? 
+* Have any ideas or discussions stuck with you?
+* Are we working together okay as a team?
+
+### Activity
+
+Each team member shared briefly their thoughts about days 1 or 2.
+
+## 9:30 - Activity #1 - The OEDA Dashboard
+
+### Purpose
+
+To define a small set of measures that will allow OEDA to monitor the health and progress of its System 1 work units at a glance.
+
+I want to acknowledge that, historically, we have not used formal metrics to manage our work. We have one official metric--% of project time disaggregated by broad program areas across ODHS and OHA. It is not a well-designed metric and tells us almost nothing of value about OEDA's mission.
+
+I think that the feeling that a single, inadequate metric is more frustrating than helpful is a reason why we've relied more on informal check-ins and conversations, and more recently narrative project updates in the tracker, to know what's going and and how we're doing. That informal path, where you can always come to me, or Kody, or Peter to talk about problems and success cannot be replaced by any kind of metric.
+
+However, as our work grows and differentiates, it will become very difficult for any one person to keep track of everything through conversation alone. This is where System 3 thinking comes in.
+
+The purpose of developing a few key metrics is not to create a report card to judge our performance. A dashboard on a car doesn't judge the driver. The speedometer, the fuel gauge, the engine temp--these are neutral, real-time signals to help the driver make better decisions. They can help the driver know when to slow down, when to refuel, or when to pull over and look under the hood. In our context, they should be conversation starters, not conclusions.
+
+Metrics can help us understand what is happening; our conversations can help us figure out why.
+
+We're going to brainstorm a few of these metrics that we believe are useful for spotting problems early, celebrating successes, and freeing up info about the team from the mind of a single person. I'm hoping we can spend less time guessing and more time in useful conversations about our work and processes.
+
+### Prompt
+
+System 3 is about active intervention, when necessary. How does the OEDA system know when intervention is necessary?
+
+*   _What are we trying to achieve?_
+*   _How will we know when we have done that?_
+
+
+Ultimately, we'll want just a handful of around 7 metrics to reflect the overall health of OEDA. Ideally, these are for operational, managerial, System 3 purposes. We should be able to use them to understand how we're doing, identify the need for attention or change.
+
+We shouldn't worry, yet, about accountability metrics to external parties.
+
+That said, we could consider being strategic with metrics. E.g. a count of inter-agency hypotheses tested will be slow incrementing--especially at first--and likely not helpful for day-to-day management. It's not something that would likely be valuable in a monthly metric review for quite some time. But maybe it's something to highlight at each Advisory Council meeting to try to motivate more sharing.
+
+#### What we might be trying to achieve
+
+OEDA was created to support "integration and analysis of client and customer service information across state agencies and programs ... [and] provide coordination, consolidation, and clear accountability for that work."
+
+In our discussion of System 5, we have decided that [we want our work to be](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_2247411050?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c):
+
+*   Ethical
+*   Understandable, accessible, usable, and approachable
+*   Rigorous and trustworthy
+*   Innovative
+*   Relevant and impactful
+
+We discussed [some kinds of relevance and impact](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_527112126?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c) which might include
+
+*   informing decisions;
+*   improving effectiveness, efficiency, and equity in service provision
+*   creating conversations that heretofore did not exist
+*   improving lives of workers and the Oregonians they serve.
+
+And we've decided that [we want our processes to be](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1578114249?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c):
+
+*   Collaborative
+*   Constructive
+*   Communicative
+*   Managing expectations
+*   Playing well with others
+*   Professional & conscientious
+
+And, finally, we've decided on two lists of potential Now and Next System 1 units for OEDA:
+
+Now
+
+*   Ideation unit
+*   Measurement unit
+*   Analytics - General
+*   Analytics - Exploratory
+*   Analytics - Descriptive
+*   Analytics - Hypothesis testing
+*   Analytics - Evaluation
+*   Analytics - Economics
+
+Next
+
+*   DUA unit
+*   OEDA enterprise outcomes unit
+*   Outreach unit
+*   External training & literacy unit
+*   Partnerships unit
+*   COIN unit
+*   Infrastructure unit
+
+
+### Activity
+
+#### Setup
+
+On a [whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_367704291?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c) include some spaces that represent our founding purpose, our values, our potential impacts, and the Now & Next System 1 units we identified.
+
+#### Individual silent brainstorm (15 minutes)
+
+Add potential metrics to any of the categories.
+
+#### Align and refine (35 minutes)
+
+*   Ask clarifying questions about any of the proposed metrics
+
+#### Selections (10 minutes)
+
+*   Walk through each, one by one
+*   Is it safe enough to try? Does it threaten OEDA's mission or values?
+*   Is it good enough for now? Is the likely juice worth the squeeze?
+*   From those which are, select 5-8 for proposed inclusion in a future dashboard
+
+### Constraints
+
+*   Metrics should be realistically measurable
+
+
+### Deliverable
+
+A draft OEDA dashboard of some initial operational metrics 
+
+
+## 10:30 - 15-minute break
+
+## 10:45 - Activity #2 - Allocating Our Energy
+
+### Purpose
+
+To create a clear, transparent, and fair model for allocating OEDA's collective time and energy across different types of work.
+
+### Prompt
+
+Our time is our most limited and valuable resource. Let's talk about how we're deploying it strategically between now and March 31 (end of 2026 Q1). We need to deliver on the work we have, but also need to ramp up to working with a governance council and develop our System 2 and System 4 tools. Let's create a model for how we will intentionally allocate our energy.
+
+### Activity
+
+#### Setup
+
+On a [whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1546873209?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c) we'll list out the following large divisions of work. These are largely the day-to-day, the emergency, and the day-to-day that Fariborz often talks of.
+
+*   Advancing existing ORRAI work
+*   System 4 development: Working with informants, documents, & literature to create OEDA proposals
+*   Other System 4 tool development
+*   System 2 tool development
+*   Unplanned/reactive work
+
+For each, draw a scale from 0-100 represent % of work time. Consider 100% to be the total number of hours that you have to contribute, outside of things like Workday entries, HR trainings, all staff meetings, vacation and other leave, etc. This is time that you could contribute to internal or external projects, collaboration, consultation, etc.
+
+Across three different exercises, you'll be
+
+* Picking a stamp/emoji to represent your answers
+* Placing a stamp in each row of the array, representing the % of work time to spend on that topic
+
+#### Personal preferences for the rest of 2025 (10 minutes)
+
+*   Place your stamps at the % of time that you would _prefer_ spending your time for the remainder of the year
+*   Consider the amount of existing work you might have, what you anticipate we might need to be doing to prepare ourselves for the OEDA Advisory Council, etc.
+*   We'll briefly discuss the pattern of responses as a team
+
+#### What OEDA _should_ be doing for the rest of 2025 (10 minutes)
+
+*   Place your stamps at the % of time that you think OEDA _should_ be doing--averaged across all on the team--for the remainder of the year
+*   We'll briefly discuss the pattern of responses as a team
+
+#### What we should be doing in 2026 (10 minutes)
+
+*   Finally, indicate your percentages for what the team--again averaged across everyone--should be doing in 2026
+*   Consider that we'll be working with the committee, might have at least OYA contacts, ODHS, and perhaps Medicaid data to work with, etc.
+*   We'll briefly discuss the pattern of responses as a team
+
+
+### Contraints
+
+* In each array, the total summing down the 5 or 6 items should roughly sum to 100%.
+* Use the same stamp across each of the arrays
+
+### Deliverable
+
+An initial model allocating efforts in OEDA.
+
+
+## 11:15 - Activity #3 - OEDA's Operational Cadence
+
+### Purpose
+
+To bring some of the System 3 concepts together to create a concrete schedule of recurring meetings, check-ins, emails, workgroup sessions, reviews of chats, etc.
+
+### Prompt
+
+*What is the minimal, effective rhythm of regular OEDA events--our operational cadence--that we need to run our system? How do we stay in sync without spending all our time in meetings?*
+
+*   What __info needs to flow__, to whom, and how often?
+*   What are the __key recurring decisions__ OEDA needs to make? Selecting ideas to propose as projects? Prioritizing project work? Allocating staff time? Getting assurance that work is good enough for now?
+
+
+Where, when, and how does everyone on the team
+*   Share new intelligence?
+*   Ask for a System 1 unit to be spun up or receive a hand off?
+*   Re-balance how they allocate their time?
+*   Identify and resolve blockers
+
+#### Some goals
+
+*   Dampening oscillation (System 2). How can we prevent problems from oscillating for days, weeks, months? When a researcher is stuck, how can the OEDA team know and mobilize to get them unstuck without a month passing? How can we prevent blockers from derailing a whole day of progress?
+*   Operationalization of management (System 3). This calendar is the operating manual for System 3--or at least a substantial part of it. It's the structure by which OEDA and Jason as OEDA manager will perform key System 3 functions like monitoring performance, surfacing issues, allocating resources, and increasing harmony of purpose.
+*   Creating a pathway for strategy (System 4). System 4 intelligence should be able to influence day-to-day operations. How can we create a formal pathway for this? How can we create opportunities for the team to learn about trends, problems, and opportunities and ask "How should this discovery change our current priorities?"
+*   Protecting autonomy (System 1). Ideally, if OEDA staff know exactly when and where key decisions will be made and coordination will happen, this will reduce doubt about both a) when and from whom they can get support, and b) they are protected from _ad hoc_ interruptions and "just checking in" messages and meetings from management, project management, and sponsors.
+
+
+### Activity
+
+#### Setup
+
+On a [whiteboard](https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_3549077133?context=%7B%22chatId%22%3A%2219%3Ameeting_NGI5MmE1ZjAtOWQzNS00MjNlLThkMTgtZGIzZDYxYzUxOTYx%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=658e63e8-8d39-499c-8f48-13adc9452f4c) create calendars at different resolutions
+
+* Things that happen one or two times per quarter
+* Things that happen one or two times a month
+* Things that happen one or two times a week
+* Things that happen daily
+
+#### Silent, individual contributions (10 minutes)
+
+*   Copying and pasting the provided example card, add one or more regular activities--synchronous activities like stand-ups, check-ins, meetings, or asynchronous like tracker updates, email updates, etc.--to one or more of the calendars
+
+#### Group alignment & refinement (35 minutes)
+
+* Ask clarifying questions
+* Ensure that suggested activities is well defined and similarly understood
+* Ensure that suggested activities have identifies a small number of primary purposes
+* Ensure that all key OEDA decisions have a venue
+
+### Constraints
+
+*   For every meeting placed on the calendar, the team must agree on its single, primary purpose.
+*   Additional purposes are okay.
+*   If a meeting doesn't have a clear purpose, it doesn't go on the calendar.
+
+### Deliverable
+
+A first draft OEDA calendar of our operational cadence. This is our new System 3 operating manual, and should show the simple, predictable rhythm to keep our system running smoothly.
+
+
+## Noon - Lunch
+
+
+
+

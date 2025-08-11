@@ -9,5 +9,5 @@ In terminal (git bash) do the following:
 
 git add docs/
 git add .
-git commit -m "Commit note"
+git add .
 git push -u origin main

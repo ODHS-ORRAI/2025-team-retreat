@@ -1,0 +1,72 @@
+---
+title: "OEDA Team Retreat 2025"
+author: "Jason Wallin, Manager"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    embed-resources: true
+---
+
+## Purpose
+
+OEDA met for three working days to do some strategic planning. We used Beer's [Viable System Model](https://en.wikipedia.org/wiki/Viable_system_model) as an organizing structure.
+
+
+
+## The Viable System Model
+
+### Intro
+
+The Viable System Model is a framework for diagnosing and designing organizations so they remain viable: adaptive, resilient, and capable of surviving in complex environments. The model identifies five core subsystems that must exist and function well for any organization (including a team like ours) to be viable. These subsystems exist within a larger environment, and the way that they communicate and balance one another is a key to long-term success. 
+
+```{mermaid}
+
+
+graph TD
+    A[Environment] -->|Inputs| B[System 1]
+    B --> C[System 2]
+    C --> D[System 3]
+    D --> E[System 4]
+    E --> F[System 5]
+    F -->|Outputs| A
+
+    subgraph "System 1"
+        B1[Operational Unit 1]
+        B2[Operational Unit 2]
+        B3[Operational Unit 3]
+        B1 -->|Coordination| C
+        B2 -->|Coordination| C
+        B3 -->|Coordination| C
+    end
+
+    subgraph "System 2"
+        C1[Coordination]
+    end
+
+    subgraph "System 3"
+        D1[Control]
+        D2[Audit]
+        D1 -->|Feedback| D2
+        D2 -->|Anomaly Detection| D1
+    end
+
+    subgraph "System 4"
+        E1[Planning]
+    end
+
+    subgraph "System 5"
+        F1[Policy]
+    end
+
+    D -->|Feedback| C
+    E -->|Feedback| D
+    F -->|Feedback| E 
+
+
+
+```
+
+
+### System 1 
